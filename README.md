@@ -27,17 +27,6 @@ bashnpm start
 
 ---
 
-## 📁 Estrutura
-```
-├── config/database.js
-├── models/Produto.js
-├── controllers/produtoController.js
-├── routes/produtos.js
-├── views/
-│   ├── listar.ejs
-│   └── cadastrar.ejs
-└── server.js
-
 🛣️ Rotas
 
 GET /produtos → Lista produtos
